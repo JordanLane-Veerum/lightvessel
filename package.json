@@ -1,0 +1,18 @@
+{
+  "name": "lightvessel",
+  "version": "1.0.0",
+  "description": "Automated performance testing using lighthouse and puppeteer",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script": "node index.js"
+  },
+  "author": "Jordan Lane",
+  "license": "ISC",
+  "dependencies": {
+    "lighthouse": "^12.2.0",
+    "lodash-es": "^4.17.21",
+    "puppeteer": "^23.1.0"
+  }
+}
